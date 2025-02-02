@@ -1,1 +1,2 @@
 # Advanced-Excel-Dashboard
+Developed a Life Expectancy Dashboard using Advanced Excel to analyze global health and economic trends. The dashboard provides insights into Life Expectancy by Year, Infant and Under-Five Deaths, and Adult Mortality vs. Life Expectancy, helping identify key health patterns. Additionally, it includes Country-wise Disease and Economic Analysis to explore the impact of healthcare infrastructure and economic conditions on life expectancy. This project aids in understanding global health disparities and policy implications.
